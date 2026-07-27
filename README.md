@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- Language Switcher Buttons -->
-<a href="README.md"><img src="https://img.shields.io/badge/Language-English%20(Current)-06B6D4?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Version" /></a>
-<a href="README.zh-CN.md"><img src="https://img.shields.io/badge/语言-中文文档-3B82F6?style=for-the-badge&logo=googletranslate&logoColor=white" alt="中文文档" /></a>
+<!-- MoonInAI Language Switcher Badges -->
+<a href="README.md"><img src="https://img.shields.io/badge/Language-English%20(Current)-F0652E?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Version" /></a>
+<a href="README.zh-CN.md"><img src="https://img.shields.io/badge/语言-中文文档-1A1714?style=for-the-badge&logo=googletranslate&logoColor=white" alt="中文文档" /></a>
 
 <br/><br/>
 
-![bbasakura Profile Banner](assets/readme/profile-hero.svg)
+![bbasakura Profile Banner — MoonInAI Editorial Theme](assets/readme/profile-hero.svg)
 
 </div>
 
@@ -24,7 +24,8 @@
 Identity   : Full-Stack Engineer & AI Automation Craftsman
 Location   : China (UTC+8)
 Primary OS : Windows 11 / Linux (WSL2 / Ubuntu)
-Interests  : AI Agents · Desktop Widgets · Quantitative Trading Indicators · System Optimization
+Palette    : MoonInAI Editorial (Paper #F4EFE6 · Ink #1A1714 · Orange #F0652E)
+Interests  : AI Agents · Desktop Widgets · Quantitative Indicators · System Optimization
 ```
 
 <br/>
@@ -84,6 +85,6 @@ Interests  : AI Agents · Desktop Widgets · Quantitative Trading Indicators · 
 
 <div align="center">
 
-<sub>Designed with <a href="https://github.com/oil-oil/beautify-github-readme">beautify-github-readme</a> · Maintained by <a href="https://github.com/bbasakura">@bbasakura</a></sub>
+<sub>Designed with <a href="https://github.com/oil-oil/beautify-github-readme">beautify-github-readme</a> · Styled in <a href="docs/MoonInAI-配色拆解与设计系统指南.md">MoonInAI Editorial Spec</a> · Maintained by <a href="https://github.com/bbasakura">@bbasakura</a></sub>
 
 </div>

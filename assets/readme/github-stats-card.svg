@@ -1,67 +1,53 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="100%" height="100%">
-  <title>bbasakura GitHub Telemetry &amp; Activity Overview</title>
-  <defs>
-    <linearGradient id="st-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F172A"/>
-      <stop offset="100%" stop-color="#1E293B"/>
-    </linearGradient>
-    <linearGradient id="st-accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#10B981"/>
-      <stop offset="50%" stop-color="#06B6D4"/>
-      <stop offset="100%" stop-color="#3B82F6"/>
-    </linearGradient>
-  </defs>
+  <title>bbasakura GitHub Telemetry — MoonInAI Editorial Style</title>
+  <rect x="2" y="2" width="1196" height="216" rx="6" fill="#F4EFE6" stroke="#1A1714" stroke-width="1.5"/>
 
-  <rect x="2" y="2" width="1196" height="216" rx="14" fill="url(#st-grad)" stroke="#334155" stroke-width="1.5"/>
+  <!-- Left Column -->
+  <g transform="translate(30, 26)">
+    <rect x="0" y="0" width="540" height="168" rx="4" fill="#F4EFE6" stroke="#1A1714" stroke-width="1"/>
+    <text x="20" y="32" fill="#1A1714" font-family="'Playfair Display', 'Noto Serif SC', serif" font-size="17" font-weight="900">⚡ GitHub Engineering Metrics</text>
+    <line x1="20" y1="44" x2="520" y2="44" stroke="#C9C0B2" stroke-width="1"/>
 
-  <!-- Left Card: Dev Activity & Telemetry -->
-  <g transform="translate(40, 30)">
-    <rect x="0" y="0" width="530" height="160" rx="10" fill="#090D16" stroke="#334155"/>
-    <text x="20" y="32" fill="#F8FAFC" font-family="system-ui, sans-serif" font-size="16" font-weight="800">⚡ GitHub Engineering Metrics</text>
-    
-    <text x="20" y="66" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Primary Focus</text>
-    <text x="160" y="66" fill="#38BDF8" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Python · Java · C# · AI Tools</text>
+    <text x="20" y="74" fill="#7D756A" font-family="system-ui, sans-serif" font-size="13">Primary Focus</text>
+    <text x="160" y="74" fill="#F0652E" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Python · Java · C# · AI Agents</text>
 
-    <text x="20" y="96" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Repository Status</text>
-    <text x="160" y="96" fill="#10B981" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Public &amp; Active Development</text>
+    <text x="20" y="104" fill="#7D756A" font-family="system-ui, sans-serif" font-size="13">Repository Status</text>
+    <text x="160" y="104" fill="#1A1714" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Public &amp; Active Development</text>
 
-    <text x="20" y="126" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">Architecture Style</text>
-    <text x="160" y="126" fill="#A855F7" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Modular · Native GUI · DPAPI Security</text>
+    <text x="20" y="134" fill="#7D756A" font-family="system-ui, sans-serif" font-size="13">Architecture Style</text>
+    <text x="160" y="134" fill="#3A342D" font-family="system-ui, sans-serif" font-size="13" font-weight="700">Editorial Vintage · Native GUI · DPAPI</text>
   </g>
 
-  <!-- Right Card: Language Breakdown Progress -->
-  <g transform="translate(630, 30)">
-    <rect x="0" y="0" width="530" height="160" rx="10" fill="#090D16" stroke="#334155"/>
-    <text x="20" y="32" fill="#F8FAFC" font-family="system-ui, sans-serif" font-size="16" font-weight="800">📊 Language &amp; Stack Allocation</text>
+  <!-- Right Column -->
+  <g transform="translate(630, 26)">
+    <rect x="0" y="0" width="540" height="168" rx="4" fill="#F4EFE6" stroke="#1A1714" stroke-width="1"/>
+    <text x="20" y="32" fill="#1A1714" font-family="'Playfair Display', 'Noto Serif SC', serif" font-size="17" font-weight="900">📊 Language Allocation Specimen</text>
+    <line x1="20" y1="44" x2="520" y2="44" stroke="#C9C0B2" stroke-width="1"/>
 
     <!-- Progress Bar -->
-    <g transform="translate(20, 50)">
-      <rect x="0" y="0" width="490" height="14" rx="7" fill="#1E293B"/>
-      <!-- Python (45%) -->
-      <rect x="0" y="0" width="220" height="14" rx="7" fill="#3776AB"/>
-      <!-- Java (25%) -->
-      <rect x="222" y="0" width="122" height="14" fill="#ED8B00"/>
-      <!-- C# (15%) -->
-      <rect x="346" y="0" width="73" height="14" fill="#239120"/>
-      <!-- JS/TS (15%) -->
-      <rect x="421" y="0" width="69" height="14" rx="7" fill="#3178C6"/>
+    <g transform="translate(20, 60)">
+      <rect x="0" y="0" width="500" height="14" rx="3" fill="#C9C0B2"/>
+      <rect x="0" y="0" width="225" height="14" rx="3" fill="#F0652E"/>
+      <rect x="227" y="0" width="125" height="14" fill="#1A1714"/>
+      <rect x="354" y="0" width="75" height="14" fill="#7D756A"/>
+      <rect x="431" y="0" width="69" height="14" rx="3" fill="#D94F1F"/>
     </g>
 
     <!-- Legend -->
-    <g transform="translate(20, 90)">
-      <circle cx="6" cy="6" r="5" fill="#3776AB"/>
-      <text x="18" y="10" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Python (45%)</text>
+    <g transform="translate(20, 104)">
+      <circle cx="6" cy="6" r="5" fill="#F0652E"/>
+      <text x="18" y="10" fill="#1A1714" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Python (45%)</text>
 
-      <circle cx="140" cy="6" r="5" fill="#ED8B00"/>
-      <text x="152" y="10" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">Java (25%)</text>
+      <circle cx="145" cy="6" r="5" fill="#1A1714"/>
+      <text x="157" y="10" fill="#1A1714" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Java (25%)</text>
 
-      <circle cx="260" cy="6" r="5" fill="#239120"/>
-      <text x="272" y="10" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">C# (15%)</text>
+      <circle cx="265" cy="6" r="5" fill="#7D756A"/>
+      <text x="277" y="10" fill="#1A1714" font-family="system-ui, sans-serif" font-size="12" font-weight="600">C# (15%)</text>
 
-      <circle cx="370" cy="6" r="5" fill="#3178C6"/>
-      <text x="382" y="10" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="12">TS/JS (15%)</text>
+      <circle cx="375" cy="6" r="5" fill="#D94F1F"/>
+      <text x="387" y="10" fill="#1A1714" font-family="system-ui, sans-serif" font-size="12" font-weight="600">TS/JS (15%)</text>
     </g>
 
-    <text x="20" y="136" fill="#64748B" font-family="system-ui, sans-serif" font-size="11">✔ Pure SVG Native Component — 100% Reliable &amp; Rate-Limit Free</text>
+    <text x="20" y="148" fill="#7D756A" font-family="monospace" font-size="11">✔ MoonInAI Pure SVG Specimen — 100% Rate-Limit Free</text>
   </g>
 </svg>

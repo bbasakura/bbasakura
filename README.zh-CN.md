@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- 中英文切换按钮 -->
-<a href="README.md"><img src="https://img.shields.io/badge/Language-English-06B6D4?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Version" /></a>
-<a href="README.zh-CN.md"><img src="https://img.shields.io/badge/语言-中文文档%20(当前)-3B82F6?style=for-the-badge&logo=googletranslate&logoColor=white" alt="中文文档" /></a>
+<!-- MoonInAI 中英文切换按钮 -->
+<a href="README.md"><img src="https://img.shields.io/badge/Language-English-1A1714?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Version" /></a>
+<a href="README.zh-CN.md"><img src="https://img.shields.io/badge/语言-中文文档%20(当前)-F0652E?style=for-the-badge&logo=googletranslate&logoColor=white" alt="中文文档" /></a>
 
 <br/><br/>
 
-![bbasakura 个人主页 Banner](assets/readme/profile-hero.svg)
+![bbasakura 个人主页 Banner — MoonInAI 设计主题](assets/readme/profile-hero.svg)
 
 </div>
 
@@ -24,6 +24,7 @@
 开发者身份 : 全栈工程师 · AI 自动化与桌面应用开发者
 所在地区   : 中国 (UTC+8)
 常用操作系统 : Windows 11 / Linux (WSL2 / Ubuntu)
+设计配色规范 : MoonInAI 社论风格 (纸张白 #F4EFE6 · 墨色 #1A1714 · 爱马仕橘 #F0652E)
 技术兴趣   : AI Agent 智能体 · 桌面小组件 · 核心量能指标 · 系统工程优化
 ```
 
@@ -84,6 +85,6 @@
 
 <div align="center">
 
-<sub>使用 <a href="https://github.com/oil-oil/beautify-github-readme">beautify-github-readme</a> 精心设计 · 由 <a href="https://github.com/bbasakura">@bbasakura</a> 维护</sub>
+<sub>使用 <a href="https://github.com/oil-oil/beautify-github-readme">beautify-github-readme</a> 精心设计 · 遵循 <a href="docs/MoonInAI-配色拆解与设计系统指南.md">MoonInAI 设计规范</a> · 由 <a href="https://github.com/bbasakura">@bbasakura</a> 维护</sub>
 
 </div>
