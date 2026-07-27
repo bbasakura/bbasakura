@@ -65,7 +65,7 @@ Interests  : AI Agents · Desktop Widgets · Quantitative Indicators · System O
 | Project Showcase | Focus & Architecture |
 | :--- | :--- |
 | ![Tuzi Balance Widget](assets/readme/project-tuzi-widget.svg) | **Windows Native API Quota & Refill Monitor**<br/>• Multi-Key reseller API balance tracking<br/>• Windows DPAPI local key encryption<br/>• Dual theme support & zero-dependency deployment |
-| <a href="https://github.com/bbasakura/token-monitor-widget"><img src="assets/readme/project-opencodex-quota.svg" alt="OpenCodex Quota Monitor" /></a> | **Multi-Account Model & Token Telemetry**<br/>• OpenAI & Antigravity account quota analytics<br/>• Intelligent auto-switcher & Desktop float widget<br/>• Local cockpit dashboard & usage ranking |
+| <a href="https://github.com/bbasakura/codex-token-monitor"><img src="assets/readme/project-token-monitor.svg" alt="OpenCodex Quota Monitor" /></a> | **Multi-Account Model & Token Telemetry**<br/>• OpenAI & Antigravity account quota analytics<br/>• Intelligent auto-switcher & Desktop float widget<br/>• Local cockpit dashboard & usage ranking |
 
 </div>
 
