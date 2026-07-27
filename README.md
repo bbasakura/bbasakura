@@ -1,5 +1,11 @@
 <div align="center">
 
+<!-- Language Switcher Buttons -->
+<a href="README.md"><img src="https://img.shields.io/badge/Language-English%20(Current)-06B6D4?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Version" /></a>
+<a href="README.zh-CN.md"><img src="https://img.shields.io/badge/语言-中文文档-3B82F6?style=for-the-badge&logo=googletranslate&logoColor=white" alt="中文文档" /></a>
+
+<br/><br/>
+
 ![bbasakura Profile Banner](assets/readme/profile-hero.svg)
 
 </div>
@@ -70,6 +76,8 @@ Interests  : AI Agents · Desktop Widgets · Quantitative Trading Indicators · 
 
 ![bbasakura GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbasakura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbasakura&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bbasakura&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
