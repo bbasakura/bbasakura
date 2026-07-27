@@ -77,6 +77,16 @@
 
 ![GitHub 开发者度量面板](assets/readme/github-stats-card.svg)
 
+
+<div align="center">
+
+| Token 监控助手 Web 统计仪表盘预览 |
+| :---: |
+| ![Token 监控助手 仪表盘](assets/readme/token_monitor_dashboard.png) |
+
+</div>
+
+
 </div>
 
 <br/>

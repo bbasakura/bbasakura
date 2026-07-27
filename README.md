@@ -77,6 +77,16 @@ Interests  : AI Agents · Desktop Widgets · Quantitative Indicators · System O
 
 ![GitHub Engineering Telemetry](assets/readme/github-stats-card.svg)
 
+
+<div align="center">
+
+| Token Monitor Dashboard Preview |
+| :---: |
+| ![Token Monitor Dashboard](assets/readme/token_monitor_dashboard.png) |
+
+</div>
+
+
 </div>
 
 <br/>
