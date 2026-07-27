@@ -65,7 +65,7 @@
 | 项目展示 | 架构特色与核心功能 |
 | :--- | :--- |
 | ![兔子余额小组件](assets/readme/project-tuzi-widget.svg) | **Windows 原生 API 额度与加油包悬浮监控**<br/>• 支持 1–20 个 reseller Key 并发额度与到期时间查询<br/>• 基于 Windows DPAPI 本地密匙加密保护<br/>• 深浅色主题同步与脱敏展示，零第三方依赖 |
-| ![OpenCodex 额度监控](assets/readme/project-opencodex-quota.svg) | **多账号 Model 与 Token 配额统计**<br/>• 全平台 OpenAI 与 Antigravity 账号配额监控<br/>• 智能自动切号指令与桌面悬浮窗<br/>• 本地 Web 仪表盘与今日使用量排行分析 |
+| <a href="https://github.com/bbasakura/token-monitor-widget"><img src="assets/readme/project-opencodex-quota.svg" alt="OpenCodex 额度监控" /></a> | **多账号 Model 与 Token 配额统计**<br/>• 全平台 OpenAI 与 Antigravity 账号配额监控<br/>• 智能自动切号指令与桌面悬浮窗<br/>• 本地 Web 仪表盘与今日使用量排行分析 |
 
 </div>
 
