@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="100%" height="100%">
+  <title>Section Header - GITHUB METRICS</title>
+  <defs>
+    <linearGradient id="grad-04" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="1196" height="86" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="24" y="20" width="8" height="50" rx="4" fill="url(#grad-04)"/>
+  <text x="48" y="54" fill="url(#grad-04)" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="900" letter-spacing="-0.5">04</text>
+  <line x1="100" y1="25" x2="100" y2="65" stroke="#334155" stroke-width="1.5"/>
+  <text x="120" y="44" fill="#F8FAFC" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="800" letter-spacing="1">GITHUB METRICS</text>
+  <text x="120" y="66" fill="#94A3B8" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500">Contribution Stats, Development Activity &amp; Telemetry</text>
+</svg>
